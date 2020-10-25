@@ -1,2 +1,4 @@
+layouts_dir         : _layouts
+includes_dir        : _includes
 theme: jekyll-theme-slate
 title: SEC 13F Securities Excel
