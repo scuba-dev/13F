@@ -1,4 +1,6 @@
-layouts_dir         : _layouts
-includes_dir        : _includes
+webrick:
+  headers:
+    My-Header: My-Value
+    My-Other-Header: My-Other-Value
 theme: jekyll-theme-slate
 title: SEC 13F Securities Excel
