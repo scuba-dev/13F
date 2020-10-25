@@ -17,4 +17,3 @@ Q3 2018 - [13f2018q3.xlsx](https://bit.ly/3ok1kyd) <br>
 Q2 2018 - [13f2018q2.xlsx](https://bit.ly/3mo4hM6) <br>
 Q1 2018 - [13f2018q1.xlsx](https://bit.ly/2TkOz8l) <br>
 
-<meta name="google-site-verification" content="YQc_kkAqFK7C46dvyxMsJJ4cTjACQpCPrIuOqNLOHEA" />
