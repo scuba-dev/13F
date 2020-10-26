@@ -1,6 +1,5 @@
-webrick:
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value
 theme: jekyll-theme-slate
 title: SEC 13F Securities Excel
+plugins:
+  - jekyll-seo-tag
+ google_site_verification: YQc_kkAqFK7C46dvyxMsJJ4cTjACQpCPrIuOqNLOHEA
