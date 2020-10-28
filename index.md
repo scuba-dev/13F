@@ -2,10 +2,10 @@
 
 ### 2020
 | Quarter | Excel | CSV |
-|---------|------------------------------------------|-----
-| Q3 2020 | [13f2020q3.xlsx](https://bit.ly/3dXNexr) | 13f2020q3.csv 
-| Q2 2020 | [13f2020q2.xlsx](https://bit.ly/3kFkSuo) | 13f2020q2.csv 
-| Q1 2020 | [13f2020q1.xlsx](https://bit.ly/3mnIJ2y) | 13f2020q1.csv 
+|---------|------------------------------------------|---------------|
+| Q3 2020 | [13f2020q3.xlsx](https://bit.ly/3dXNexr) | 13f2020q3.csv |
+| Q2 2020 | [13f2020q2.xlsx](https://bit.ly/3kFkSuo) | 13f2020q2.csv |
+| Q1 2020 | [13f2020q1.xlsx](https://bit.ly/3mnIJ2y) | 13f2020q1.csv |
 
 ### 2019
 | Quarter | Excel | CSV |
