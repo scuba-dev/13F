@@ -1,4 +1,4 @@
-## List of 13F Securities in Excel format
+## List of 13F Securities in Excel / CSV format
 
 ### 2020
 
