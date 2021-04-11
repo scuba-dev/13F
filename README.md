@@ -7,7 +7,7 @@ Download the latest SEC 13F Securities List in a usable format ([see also github
 
 | Quarter | Excel | CSV |
 |---------|------------------------------------------|---------------|
-| Q1 2021 | [13flist2021q1.xlsx](https://bit.ly/3sdmjmN) | [13flist2021q1.csv](https://bit.ly/3g1Zjoo) |
+| Q1 2021 | [13flist2021q1.xlsx](https://bit.ly/3mAW74u) | [13flist2021q1.csv](https://bit.ly/3d48brP) |
 
 ### 2020
 
@@ -35,5 +35,3 @@ Download the latest SEC 13F Securities List in a usable format ([see also github
 | Q3 2018 | [13flist2018q3.xlsx](https://bit.ly/3ok1kyd) | [13flist2018q3.csv](https://bit.ly/3jPysdO) |
 | Q2 2018 | [13flist2018q2.xlsx](https://bit.ly/3mo4hM6) | [13flist2018q2.csv](https://bit.ly/37QWAdA) |
 | Q1 2018 | [13flist2018q1.xlsx](https://bit.ly/2TkOz8l) | [13flist2018q1.csv](https://bit.ly/35RkLpp) |
-
-
