@@ -3,6 +3,12 @@ Download the latest SEC 13F Securities List in a usable format ([see also github
 
 ## List of 13F Securities in Excel / CSV format
 
+### 2021
+
+| Quarter | Excel | CSV |
+|---------|------------------------------------------|---------------|
+| Q1 2021 | [13flist2021q1.xlsx](https://bit.ly/3sdmjmN) | [13flist2021q1.csv](https://bit.ly/3g1Zjoo) |
+
 ### 2020
 
 | Quarter | Excel | CSV |
