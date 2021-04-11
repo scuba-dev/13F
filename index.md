@@ -7,7 +7,7 @@ Download the latest SEC 13F Securities List in a usable format ([see also github
 
 | Quarter | Excel | CSV |
 |---------|------------------------------------------|---------------|
-| Q1 2021 | [13flist2021q1.xlsx](https://bit.ly/3sdmjmN) | [13flist2021q1.csv](https://bit.ly/3g1Zjoo) |
+| Q1 2021 | [13flist2021q1.xlsx](https://bit.ly/3mAW74u) | [13flist2021q1.csv](https://bit.ly/3d48brP) |
 
 ### 2020
 
