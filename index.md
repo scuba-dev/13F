@@ -4,6 +4,7 @@
 
 | Quarter | Excel | CSV |
 |---------|------------------------------------------|---------------|
+| Q2 2021 | [13flist2021q2.xlsx](https://bit.ly/3AWFDKU) | [13flist2021q2.csv](https://bit.ly/3xNZk5L) |
 | Q1 2021 | [13flist2021q1.xlsx](https://bit.ly/3mAW74u) | [13flist2021q1.csv](https://bit.ly/3d48brP) |
 
 ### 2020
